@@ -9,4 +9,5 @@ Sistema simples em Python que simula o monitoramento de um reservatório.
 
 ## Como executar
 pip install colorama
+
 python leticia_agd11_DSI.py
